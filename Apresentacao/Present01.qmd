@@ -1,0 +1,46 @@
+---
+title: "Título da Apresentação UFPA"
+subtitle: "Subtitulo da apresentação"
+author: "Raphael Teixeira"
+institute: "Universidade Federal do Pará"
+date: ""
+format:
+  revealjs:
+    theme: simple           
+    css: ../TemaRTx.scss
+    width: 1600 
+    height: 900   
+---
+
+# 🚀 Slide de Introdução
+
+Este é o slide principal do Tema 01, gerado com a identidade visual da UFPA.
+
+* A navegação entre os slides horizontais é feita por novos cabeçalhos de Nível 1 (`#`).
+* Se o seu arquivo `TemaRTx.scss` estiver funcionando, as cores da UFPA serão aplicadas.
+
+---
+
+## 🎯 Agenda da Apresentação
+
+1.  Estrutura do Projeto e Configuração.
+2.  Customização de Estilo com SCSS.
+3.  Próximos Passos e Dúvidas.
+
+---
+
+# 2. Customização com SCSS
+
+Utilizamos o **SCSS** para sobrescrever variáveis do Bootstrap e aplicar as cores oficiais da UFPA, conforme a sua definição:
+
+```scss
+// Paleta de Cores UFPA
+$blue-ufpa: #002C6F; // Primária
+$red-ufpa: #E4002B; // Secundária
+
+// Configuração
+$body-bg: $white; // Fundo do corpo branco
+
+// Aplicação
+$primary: $blue-ufpa;
+$secondary: $red-ufpa;

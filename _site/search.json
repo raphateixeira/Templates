@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "Apresentacao/Present01.html#agenda-da-apresentação",
+    "href": "Apresentacao/Present01.html#agenda-da-apresentação",
+    "title": "Título da Apresentação UFPA",
+    "section": "🎯 Agenda da Apresentação",
+    "text": "🎯 Agenda da Apresentação\n\nEstrutura do Projeto e Configuração.\nCustomização de Estilo com SCSS.\nPróximos Passos e Dúvidas.",
+    "crumbs": [
+      "Temas",
+      "Título da Apresentação UFPA"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Apresentações",
+    "section": "",
+    "text": "Apresentação do Tema A",
+    "crumbs": [
+      "Apresentações"
+    ]
+  },
+  {
+    "objectID": "index.html#conteúdo",
+    "href": "index.html#conteúdo",
+    "title": "Apresentações",
+    "section": "",
+    "text": "Apresentação do Tema A",
+    "crumbs": [
+      "Apresentações"
+    ]
+  }
+]
